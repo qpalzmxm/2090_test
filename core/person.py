@@ -5,7 +5,7 @@ class Person(ABC):
     """Abstract Base Class - Abstraction"""
     
     def __init__(self, person_id: str, name: str):
-        self._person_id = person_id      # Protected
+        self._person_id = person_id     
         self._name = name
         self._created_at = datetime.now()
 
