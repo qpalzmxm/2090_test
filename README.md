@@ -7,3 +7,5 @@ I used Codespaces to load the code
 (10. Check Email Logs) is meant to check email logs that is sent automatically, it is not a funcution to send any emails. 
 
 I cannot ensure email and fee work perfectly. (didn't dobule check time system)
+
+I heavily used ai
