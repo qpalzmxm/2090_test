@@ -17,7 +17,6 @@ class Student(Person):
     def has_overdue(self) -> bool:
         return any(t.is_overdue() for t in self._borrowed_transactions if not t.is_returned())
 
-    # Polymorphism: Override parent method
     def display_info(self) -> str:
         base = super().display_info()
         overdue = "Yes" if self.has_overdue() else "No"
