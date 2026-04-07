@@ -4,4 +4,4 @@ This is a initial library management system. I can only ensure that all the func
 
 (10. Check Email Logs) is meant to check email logs that is sent automatically, it is not a funcution to send any emails. 
 
-I cannot ensure email and fee worked perfectly. (didn't dobule check time system)
+I cannot ensure email and fee work perfectly. (didn't dobule check time system)
